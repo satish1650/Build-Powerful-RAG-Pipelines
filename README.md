@@ -1,4 +1,4 @@
-### Build powerful RAG pipelines: Traditional, Advanced, Multimodal & Agentic AI with LangChain,LangGraph and Langsmith <br>
+Build powerful RAG pipelines: Traditional, Advanced, Multimodal & Agentic AI with LangChain,LangGraph and Langsmith
 ---
 ### **Description**
 **The Power of Retrieval-Augmented Generation (RAG) – From Traditional to Advanced Agentic AI Systems.** <br>
