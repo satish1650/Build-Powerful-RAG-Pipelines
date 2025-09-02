@@ -82,6 +82,15 @@ By the end of this bootcamp, We’ll have hands-on, production-ready skills to b
 - Build domain-specific knowledge chatbots with hybrid search.
 - Develop multimodal AI assistants that process both text and images.
 
+**Requirements or Prerequisites?**
+- Basic understanding of Python programming (variables, loops, functions).
+- No prior knowledge of RAG is required — everything will be taught from scratch.
+- Familiarity with AI concepts like LLMs is helpful
+- Basic Knowledge Of Langchain
 
-
-
+**Who this course is for:**
+- AI developers & ML engineers who want to master RAG from basics to advanced agentic systems.
+- Data scientists aiming to integrate retrieval systems into AI workflows.
+- Software developers building intelligent assistants, chatbots, or research tools.
+- Researchers exploring advanced RAG workflows and multi-agent AI pipelines.
+- AI enthusiasts & beginners who want a hands-on, step-by-step approach to RAG without prior experience.
