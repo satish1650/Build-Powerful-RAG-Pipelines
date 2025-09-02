@@ -23,7 +23,8 @@ By the end, We won’t just understand RAG — We’ll be able to **design, opti
 - Choosing and using vector databases effectively.
 - Building retrieval + generation workflows with LangChain.
 
-**2. Advanced RAG Techniques**
+2.Advanced RAG Techniques
+---
 - Advanced chunking strategies for precision retrieval.
 - Hybrid search: combining vector and keyword search.
 - Multimodal RAG for text, images, and more.
@@ -31,38 +32,44 @@ By the end, We won’t just understand RAG — We’ll be able to **design, opti
 - Self-RAG for improving retrieval quality.
 - Adaptive & Corrective RAG for dynamic and error-resistant pipelines.
 
-**3. Agentic RAG Pipelines**
+3.Agentic RAG Pipelines
+---
 - Multi-agent architectures with LangGraph.
 - Designing agents for research, summarization, and decision-making.
 - Autonomous RAG with minimal human intervention.
 - Collaborative AI reasoning with specialized agents.
 
-**4. LangSmith for RAG Evaluation & Optimization**
+4.LangSmith for RAG Evaluation & Optimization
+---
 - Tracking and managing RAG experiments.
 - Debugging retrieval pipelines and fixing bottlenecks.
 - Running evaluation metrics to boost accuracy.
 
-**5. Real-World RAG Projects**
+5.Real-World RAG Projects
+---
 - Chatbot with domain-specific knowledge.
 - Multi-agent research assistant for automated reports.
 - Multimodal AI assistant with text and image retrieval.
 - Deploying RAG applications to the cloud.
 
-**Who This Course Is For**
+Who This Course Is For
+---
 - AI developers & machine learning engineers.
 - Data scientists integrating retrieval systems.
 - Software developers building intelligent assistants.
 - Researchers exploring advanced RAG workflows.
 - Anyone aiming to master RAG from scratch to production-ready deployment.
 
-**Tools & Frameworks We’ll Master**
+Tools & Frameworks We’ll Master
+---
 - **LangChain** – Build modular RAG pipelines.
 - **LangGraph** – Create advanced agent-based workflows with memory.
 - **LangSmith** – Track, debug, and evaluate RAG systems.
 - **Vector Databases** – FAISS, Pinecone, Weaviate, and more.
 - **Cloud Deployment** – Take AI apps from development to production.
 
-**Our Learning Journey**
+Our Learning Journey
+---
 1. **Understand** RAG fundamentals.
 1. **Build** real-world retrieval pipelines.
 1. **Advance** to agentic and autonomous AI systems.
@@ -75,7 +82,8 @@ By the end of this bootcamp, We’ll have hands-on, production-ready skills to b
 
 **Join the Ultimate RAG Bootcamp today — and start building AI systems that truly understand, reason, and deliver results.** <br>
 
-**What We’ll learn** <br>
+What We’ll learn
+---
 - Build traditional RAG pipelines for accurate and efficient information retrieval.
 - Implement advanced retrieval methods like hybrid search, multimodal RAG, and persistent memory.
 - Design multi-agent and autonomous RAG systems using LangGraph for collaborative AI reasoning.
@@ -85,13 +93,15 @@ By the end of this bootcamp, We’ll have hands-on, production-ready skills to b
 - Build domain-specific knowledge chatbots with hybrid search.
 - Develop multimodal AI assistants that process both text and images.
 
-**Requirements or Prerequisites?**
+Requirements or Prerequisites?
+---
 - Basic understanding of Python programming (variables, loops, functions).
 - No prior knowledge of RAG is required — everything will be taught from scratch.
 - Familiarity with AI concepts like LLMs is helpful
 - Basic Knowledge Of Langchain
 
-**Who this course is for:**
+Who this course is for:
+---
 - AI developers & ML engineers who want to master RAG from basics to advanced agentic systems.
 - Data scientists aiming to integrate retrieval systems into AI workflows.
 - Software developers building intelligent assistants, chatbots, or research tools.
