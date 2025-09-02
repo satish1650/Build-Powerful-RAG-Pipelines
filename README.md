@@ -51,3 +51,37 @@ By the end, We won’t just understand RAG — We’ll be able to **design, opti
 - Software developers building intelligent assistants.
 - Researchers exploring advanced RAG workflows.
 - Anyone aiming to master RAG from scratch to production-ready deployment.
+
+**Tools & Frameworks We’ll Master**
+- **LangChain** – Build modular RAG pipelines.
+- **LangGraph** – Create advanced agent-based workflows with memory.
+- **LangSmith** – Track, debug, and evaluate RAG systems.
+- **Vector Databases** – FAISS, Pinecone, Weaviate, and more.
+- **Cloud Deployment** – Take AI apps from development to production.
+
+**Our Learning Journey**
+1. **Understand** RAG fundamentals.
+1. **Build** real-world retrieval pipelines.
+1. **Advance** to agentic and autonomous AI systems.
+1. **Deploy** and monitor in production.
+1. **Optimize** for continuous improvement.
+
+**RAG is more than just an AI trend — it’s the foundation of intelligent, context-aware applications.** <br>
+
+By the end of this bootcamp, We’ll have hands-on, production-ready skills to build and deploy cutting-edge RAG pipelines with LangChain, LangGraph, and LangSmith. <br>
+
+**Join the Ultimate RAG Bootcamp today — and start building AI systems that truly understand, reason, and deliver results.** <br>
+
+**What We’ll learn** <br>
+- Build traditional RAG pipelines for accurate and efficient information retrieval.
+- Implement advanced retrieval methods like hybrid search, multimodal RAG, and persistent memory.
+- Design multi-agent and autonomous RAG systems using LangGraph for collaborative AI reasoning.
+- Use LangSmith for tracking, debugging, and optimizing RAG workflows in real-world projects.
+- Integrate LangSmith for tracking, debugging, and optimizing RAG performance.
+- Use vector databases like FAISS, Pinecone, and Weaviate efficiently.
+- Build domain-specific knowledge chatbots with hybrid search.
+- Develop multimodal AI assistants that process both text and images.
+
+
+
+
