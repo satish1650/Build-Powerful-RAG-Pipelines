@@ -16,3 +16,4 @@ python-docx
 docx2txt
 openpyxl
 jq
+msoffcrypto-tool
