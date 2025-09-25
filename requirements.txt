@@ -6,7 +6,6 @@ langchain-openai
 faiss-cpu
 chromadb
 tiktoken
-sentence-transformers 
 pypdf
 pandas
 pymupdf
@@ -18,3 +17,6 @@ openpyxl
 jq
 msoffcrypto-tool
 matplotlib
+# Embeddings
+langchain_huggingface
+sentence-transformers
